@@ -1,0 +1,113 @@
+link_match : link to the match page on the Premier League website
+season : season of the match
+date : date of the match
+home_team : home team
+away_team : away team
+result_full : match result
+result_ht : result of the match in the 1st half
+home_clearances : balls cleared by the home team in the match
+home_corners : corners of the home team in the match
+home_fouls_conceded : fouls committed by the home team in the match
+home_offsides: offsides of the home team in the match
+home_passes: completed passes of the home team in the match
+home_possession : possession of the head team in the match
+home_red_cards: red cards of the home team in the match
+home_shots : shots of the home team in the match
+home_shots_on_target : shots on target of the home team in the match
+home_tackles : tackles of the home team in the match
+home_touches : touches on the ball of the home team in the match
+home_yellow_cards : yellow cards of the home team in the match
+away_clearances : balls cleared by the away team in the match
+away_corners : corners of the away team in the match
+away_fouls_conceded : fouls committed by the away team in the match
+away_offsides : red cards of the visiting team in the match
+away_passes : passes completed by the visiting team in the match
+away_possession : possession of the visiting team in the match
+away_red_cards : red cards of the visiting team in the match
+away_shots : shots of the away team in the match
+away_shots_on_target : shots on target of the away team in the match
+away_tackles : tackles of the away team in the match
+away_touches : touches the ball of the visiting team in the match
+away_yellow_cards : yellow cards of the away team in the match
+goal_home_ft : goals scored by the home team in the match
+goal_away_ft : goals scored by the away team in the match
+sg_match_ft : goal difference between the home and away team in the match
+goal_home_ht : goals scored by the home team in the 1st half of the match
+goal_away_ht : goals scored by the away team in the 1st half of the match
+sg_match_ht : goal difference between the home and away team in the 1st half of the match
+clearances_avg_H : average of cleared balls/game of the home team in home games this season; accumulated until the last match
+corners_avg_H : average corners/game of the home team in home games this season; accumulated until the last match
+fouls_conceded_avg_H : average fouls committed/match of the home team in home games this season; accumulated until the last match
+offsides_avg_H : average offsides/match of the home team in home games this season; accumulated until the last match
+passes_avg_H : average of passes/game of the home team in home games this season; accumulated until the last match
+possession_avg_H : average possession/game of the home team in home games this season; accumulated until the last match
+red_cards_avg_H : average red cards/game of the home team in home games this season; accumulated until the last match
+shots_avg_H : average shots/game of the home team in home games this season; accumulated until the last match
+shots_on_target_avg_H : average shots on target/game of the home team in home games this season; accumulated until the last match
+tackles_avg_H : average tackles/match of the home team in home games this season; accumulated until the last match
+touches_avg_H : average touches on the ball/game of the home team in home games this season; accumulated until the last match
+yellow_cards_avg_H : average yellow cards/match of the home team in home games this season; accumulated until the last match
+goals_scored_ft_avg_H : average goals scored/game by the home team in home games this season; accumulated until the last match
+goals_conced_ft_avg_H : average goals conceded/game of the home team in home games this season; accumulated until the last match
+sg_match_ft_acum_H : goal difference of the home team in home games this season; accumulated until the last match
+goals_scored_ht_avg_H : average goals scored/game in the 1st half of the home team in home games this season; accumulated until the last match
+goals_conced_ht_avg_H : average goals conceded/game in the 1st half for the home team in home games this season; accumulated until the last match
+sg_match_ht_acum_H : goal difference in the 1st half of the home team in home games this season; accumulated until the last match
+performance_acum_H : percentage of success of the home team in home games this season; accumulated until the last match
+clearances_avg_A : average of balls cleared/game of the visiting team in away games in the season; accumulated until the last match
+corners_avg_A : average corners/game of the visiting team in away games this season; accumulated until the last match
+fouls_conceded_avg_A : average fouls committed/game of the visiting team in away games this season; accumulated until the last match
+offsides_avg_A : average offsides/game of the visiting team in away games this season; accumulated until the last match
+passes_avg_A : average of passes/game of the visiting team in away games in the season; accumulated until the last match
+possession_avg_A : average possession/game of the visiting team in away games in the season; accumulated until the last match
+red_cards_avg_A : average red cards/game of the visiting team in away games this season; accumulated until the last match
+shots_avg_A : average shots/game of the visiting team in away games this season; accumulated until the last match
+shots_on_target_avg_A : average shots on target/game by away team in away games this season; accumulated until last match
+tackles_avg_A : average tackles/match of the visiting team in away games this season; accumulated until the last match
+touches_avg_A : average touches the ball/game of the visiting team in away games this season; accumulated until the last match
+yellow_cards_avg_A : average yellow cards/game of the visiting team in away games this season; accumulated until the last match
+goals_scored_ft_avg_A : average goals scored/game by the visiting team in away games this season; accumulated until the last match
+goals_conced_ft_avg_A : goals conceded/game for away team in away games this season; accumulated until last match
+sg_match_ft_acum_A : goal difference for away team in away games this season; accumulated until last match
+goals_scored_ht_avg_A : average goals scored/game in the 1st half of the visiting team in away games this season; accumulated until the last match
+goals_conced_ht_avg_A : goals conceded/game average in the visiting team's 1st half in away games this season; accumulated until the last match
+sg_match_ht_acum_A : goal difference in the visiting team's 1st half in away games this season; accumulated until the last match
+performance_accum_A : away team percentage in away games this season; accumulated until the last match
+clearances_avg_home : average of cleared balls/game of the home team in the season; accumulated until the last match
+corners_avg_home : average corners/game of the home team in the season; accumulated until the last match
+fouls_conceded_avg_home : average fouls committed/match of the home team this season; accumulated until the last match
+offsides_avg_home : average offsides/match of the home team in the season; accumulated until the last match
+passes_avg_home : average of passes/game of the home team in the season; accumulated until the last match
+possession_avg_home : average possession/game of the home team in the season; accumulated until the last match
+red_cards_avg_home : average red cards/match of the home team in the season; accumulated until the last match
+shots_avg_home : average shots/match of the home team in the season; accumulated until the last match
+shots_on_target_avg_home: average shots on target/game for the home team this season; accumulated to last match
+tackles_avg_home: average tackles/match of the home team this season; accumulated until the last match
+touches_avg_home : average touches on the ball/game of the home team this season; accumulated until the last match
+yellow_cards_avg_home : average yellow cards/match of the home team in the season; accumulated until the last match
+goals_scored_ft_avg_home: average goals scored/match of the home team this season; accumulated until the last match
+goals_conced_ft_avg_home: average goals conceded/game for home team this season; accumulated until last match
+sg_match_ft_acum_home: home team goal difference this season; accumulated until last match
+goals_scored_ht_avg_home: average goals scored/game in the first half of the home team in the season; accumulated until the last match
+goals_conced_ht_avg_home: average goals conceded/game in the home team 1st half of the season; accumulated until the last match
+sg_match_ht_acum_home: goal difference in the 1st half of the home team in the season; accumulated until the last match
+performance_acum_home : home team percentage in the season; accumulated until the last match
+clearances_avg_away : average of cleared balls/game of the visiting team in the season; accumulated until the last match
+corners_avg_away : average corner kicks/game of the visiting team in the season; accumulated until the last match
+fouls_conceded_avg_away : average fouls committed/game of the visiting team in the season; accumulated until the last match
+offsides_avg_away : average offsides/match of the visiting team in the season; accumulated until the last match
+passes_avg_away : average of passes/game of the visiting team in the season; accumulated until the last match
+possession_avg_away : average possession/game of the away team in the season; accumulated until the last match
+red_cards_avg_away : average red cards/match of the visiting team in the season; accumulated until the last match
+shots_avg_away : average shots/game of the visiting team in the season; accumulated until the last match
+shots_on_target_avg_away: average shots on target/game of the visiting team in the season; accumulated until the last match
+tackles_avg_away: average tackles/match of the visiting team in the season; accumulated until the last match
+touches_avg_away : average touches the ball/game of the visiting team in the season; accumulated until the last match
+yellow_cards_avg_away : average yellow cards/match of the visiting team in the season; accumulated until the last match
+goals_scored_ft_avg_away: average goals scored/game by the visiting team in the season; accumulated until the last match
+goals_conced_ft_avg_away: average goals conceded/game for away team in season; accumulated until last match
+sg_match_ft_acum_away: away team goal difference this season; accumulated until last match
+goals_scored_ht_avg_away: average goals scored/game in the visiting team's 1st half in the season; accumulated until the last match
+goals_conced_ht_avg_away: average goals conceded/game in the visiting team's 1st half of the season; accumulated until the last match
+sg_match_ht_acum_away: goal difference in the 1st half of the visiting team in the season; accumulated until the last match
+performance_acum_away : away team's performance percentage in the season; accumulated until the last match
