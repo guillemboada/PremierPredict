@@ -1,1 +1,4 @@
-# Weekend-Challange
+# Weekend Challenge: EPL Prediction
+This repository contains a study on the prediction of the final results of the English Premier League (EPL) matches played in 2021, based on all previous matches since 2010 (`df_full_premierleague.csv` and `df_full_premierleague.txt`). The `epl_prediction.ipynb` contains a step-by-step exploration and experiments with visualizations for a wide variety of traditional ML models such as Random Forest, Logistic Regression, SVM, Naive Bayes, Gradient Boosting, MLP, XGBoost and kNN, and also more advanced models, e.g., an originally devised deep neural network. Then, `epl_cli.py` is a Command Line Interface (CLI) script that implements the best prediction model on the data addressed by the path argument. This can be passed in the console via the argument `-p`, for instance `python epl_cli.py -p D:\DATA\PremierLeague\df_full_premierleague.csv`. Finally, the ` epl_abstract` is an abstract of the work written in German language.
+
+Please write me if you have any question understanding the code (guillemboada@hotmail.com).
